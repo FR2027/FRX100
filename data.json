@@ -1,0 +1,26 @@
+[
+  {
+    "title": "FRX 科技公司官網",
+    "description": "FRX 台灣",
+    "url": "https://frx-tau.vercel.app/",
+    "tag": "官方網站",
+    "isSpecial": true,
+    "buttonText": "進入網站"
+  },
+  {
+    "title": "FRX 官網測試版",
+    "description": "FRX官網測試版 可試用最新更新",
+    "url": "https://frx-2.vercel.app/",
+    "tag": "測試版網站",
+    "isSpecial": false,
+    "buttonText": "進入網站"
+  },
+  {
+    "title": "FRX Pixel Wars | 像素大戰",
+    "description": "與來自世界各地的玩家一同在 500x500 的巨型畫布上即時創作、放置像素，發揮創意與團隊合作守護你的像素領地！",
+    "url": "https://frxpixelwars.vercel.app/",
+    "tag": "網站遊戲",
+    "isSpecial": false,
+    "buttonText": "前往伺服器"
+  }
+]
