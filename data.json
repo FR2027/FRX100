@@ -16,12 +16,12 @@
     "buttonText": "進入網站"
   },
   {
-    "title": "FRX Pixel Wars | 像素大戰",
-    "description": "與來自世界各地的玩家一同在 500x500 的巨型畫布上即時創作、放置像素，發揮創意與團隊合作守護你的像素領地！",
-    "url": "https://frxpixelwars.vercel.app/",
-    "tag": "網站遊戲",
+    "title": "NEXO AI",
+    "description": "NEXO AI｜詳細解決您的任何問題。絕對是您的最佳助手，解決任何問題。交給NEXO！",
+    "url": "https://nexo2027.vercel.app/",
+    "tag": "AI",
     "isSpecial": false,
-    "buttonText": "前往伺服器"
+    "buttonText": ""
   },
   {
     "title": "FRX CB | 量子方塊",
