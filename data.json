@@ -8,6 +8,14 @@
     "buttonText": "進入網站"
   },
   {
+    "title": "NEXO AI官方網站",
+    "description": "FRX Corporation 旗下 NEXO AI 官方網站，提供全方位智慧解答、伺服器架構、隱私權條款與 App 下載。",
+    "url": "https://nexo-ai-2027.vercel.app/",
+    "tag": "AI官網",
+    "isSpecial": false,
+    "buttonText": ""
+  },
+  {
     "title": "FRX 官網測試版",
     "description": "FRX官網測試版 可試用最新更新",
     "url": "https://frx-2.vercel.app/",
