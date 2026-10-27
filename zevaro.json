@@ -1,1 +1,14 @@
-67
+[
+  {
+    "id": "FRX官方網站",
+    "name": "FRX Official",
+    "url": "https://frx-tau.vercel.app/",
+    "logo": "https://cdn.phototourl.com/member/2026-10-23-a514ae5d-6a2a-415f-a975-0f91cc08324c.webp",
+    "description": "FRX 科技，構築次世代決策。",
+    "owner_email": "frx.2027.tw@gmail.com",
+    "created_at": "2026-10-27T12:00:00Z",
+    "is_trending": true,
+    "is_sponsored": true,
+    "category": "FRX"
+  }
+]
